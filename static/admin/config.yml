@@ -1,5 +1,5 @@
 backend:
-  name: TheNomanAhmed
+  name: github
   repo: TheNomanAhmed/netlify-cms
 media_folder: static/assets
 public_folder: /assets
